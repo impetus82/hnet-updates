@@ -1,4 +1,7 @@
-# HNET updates
+# HNET updates (public)
 
-Публичные артефакты и manifest обновлений HNET.
-Код: private `impetus82/hnet`.
+- `manifest.json` — stable-канал.
+- `android/` — release APK (подпись HNET release).
+- `macos/` — macOS zip (установка вручную).
+
+Код HNET: private `impetus82/hnet`.
