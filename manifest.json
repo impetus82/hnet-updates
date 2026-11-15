@@ -1,0 +1,16 @@
+{
+  "channel": "stable",
+  "version": "0.8.1",
+  "published_at": "2026-11-15T00:00:00Z",
+  "android": {
+    "versionCode": 19,
+    "url": "https://impetus82.github.io/hnet-updates/android/HNET-0.8.1-release.apk",
+    "sha256": ""
+  },
+  "macos": {
+    "build": 9,
+    "version": "0.8.1",
+    "url": "https://impetus82.github.io/hnet-updates/macos/HNET-macOS-0.8.1.zip",
+    "sha256": ""
+  }
+}
