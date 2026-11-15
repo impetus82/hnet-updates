@@ -1,12 +1,12 @@
 {
   "channel": "stable",
   "version": "0.9.5",
-  "published_at": "2026-11-15T15:01:00.135388+00:00",
+  "published_at": "2026-11-15T15:07:18.144505+00:00",
   "android": {
-    "versionCode": 22,
-    "version": "0.9.4",
-    "url": "https://impetus82.github.io/hnet-updates/android/HNET-0.9.4-release.apk",
-    "sha256": "7ce5e7f40823556531f57e823e1eaf74337b6eaac4b7e6e66eb5a7d6e06c96b9"
+    "versionCode": 23,
+    "version": "0.9.5",
+    "url": "https://impetus82.github.io/hnet-updates/android/HNET-0.9.5-release.apk",
+    "sha256": "1f510d6deb42692c8a54ede0e01062a7b72f90db1bb6abb416733490fc5148dd"
   },
   "macos": {
     "build": 12,
@@ -17,7 +17,7 @@
   "windows": {
     "version": "0.9.5",
     "url": "https://impetus82.github.io/hnet-updates/windows/HNET-0.9.5-windows-setup.exe",
-    "sha256": "a49101252fed4c2ae25ef2443aeaa0760175951728e760fdea02a823bdb71ea1",
+    "sha256": "44426241202428008a90405c9cfe08b1906abba45a1455ec0b230677ad452c1a",
     "previous_url": "https://impetus82.github.io/hnet-updates/windows/HNET-0.9.4-windows-setup.exe",
     "previous_sha256": "a366adfd61c8c22e756aacfdd05b378f090efca334b63936a8f1492b37fe0188"
   }
