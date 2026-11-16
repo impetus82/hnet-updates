@@ -1,12 +1,12 @@
 {
   "channel": "stable",
-  "version": "0.9.19",
-  "published_at": "2026-11-16T07:23:50.486679+00:00",
+  "version": "0.9.20",
+  "published_at": "2026-11-16T07:41:15.601893+00:00",
   "android": {
-    "versionCode": 36,
-    "version": "0.9.19",
-    "url": "https://impetus82.github.io/hnet-updates/android/HNET-0.9.19-release.apk",
-    "sha256": "eb1f92312dfd5614aece47b415cb11aa7a9511a8e9ed10352d347de4612b1818"
+    "versionCode": 37,
+    "version": "0.9.20",
+    "url": "https://impetus82.github.io/hnet-updates/android/HNET-0.9.20-release.apk",
+    "sha256": "f210b96432e94aa729b736c42c6fab5161ba7250a6ff5d3d7253398bd0b83779"
   },
   "macos": {
     "build": 15,
